@@ -1,2 +1,2 @@
-# patika-beginner-java-backend-pathway
-patika.dev - Beginner Java Backend Development Pathway
+# patika.dev - Kodluyoruz.org
+# Beginner Java Backend Development Lessons & Solutions
